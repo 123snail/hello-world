@@ -1,2 +1,4 @@
 # hello-world
-begin to GitHub
+Hi humans!
+
+123snail here, I love GitHub.
